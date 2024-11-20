@@ -1,6 +1,10 @@
-<a rel="me" href="https://genomic.social/@mragsac">Mastodon</a>
-
 ## Hello, world!
+
+My name is Michelle Franc Ragsac, and I'm a Filipino-American bioinformatics scientist based in sunny San Diego, California. I'm passionate about teaching bioinformatics and learning about the mechanisms that lead to disease. I spent my Ph.D. learning about notochord development in Emma Farley's lab at the University of California, San Diego. I'm now working with Tiffany Amariuta as a Postdoctoral Scholar studying childhood asthma.
+
+You can find my ramblings on <a rel="me" href="https://bsky.app/profile/mragsac.bsky.social">BlueSky</a> and other places to stay connected on my [Personal Website](https://mragsac.com)! 
+
+I'm also on <a rel="me" href="https://genomic.social/@mragsac">Mastodon</a> through the `@genomic.social` server despite the fact I don't post there. I just claimed my handle in case people wanted to steal it.
 
 <!--
 **mragsac/mragsac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
