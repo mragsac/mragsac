@@ -6,6 +6,8 @@ You can find my ramblings on <a rel="me" href="https://bsky.app/profile/mragsac.
 
 I'm also on <a rel="me" href="https://genomic.social/@mragsac">Mastodon</a> through the `@genomic.social` server despite the fact I don't post there. I just claimed my handle in case people wanted to steal it.
 
+Icon made with the old Square Face Icon Generator from [2013](http://www.icongenerators.net/square.html), but you can find it preserved in the [Flash Museum](https://flashmuseum.org/square-face-icon-generator/).
+
 <!--
 **mragsac/mragsac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
